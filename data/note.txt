@@ -1,0 +1,2 @@
+1;1;15.11.2019;Teofana;10.0;sfds
+1;2;15.11.2019;Teofana;1.0;prea tarziu

@@ -1,0 +1,22 @@
+.tab-pane{
+    -fx-background-color: #f9fff9;
+    -fx-text-fill: #454545;
+    -fx-font-weight: bold;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.tab:hover{
+    -fx-background-color: #f9fff9;
+    -fx-opacity: 70%;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.tab:selected{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-border-radius: 0;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
